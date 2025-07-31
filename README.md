@@ -1,3 +1,18 @@
+### Contoh Kasus:
+
+Misalnya, feedback pelanggan yang ingin dianalisis adalah seperti berikut:
+
+1. "Saya sangat senang dengan produk ini!" — **Joy**
+2. "Ini benar-benar mengecewakan, saya tidak akan membeli lagi." — **Sadness**
+3. "Tunggu dulu, apakah itu benar-benar terjadi?" — **Surprise**
+4. "Saya benci cara ini diproses." — **Disgust**
+
+### Evaluasi Model dengan Confusion Matrix:
+
+Lo bisa menggunakan confusion matrix yang memiliki 8 kelas, dengan baris dan kolom yang mewakili **8 emosi**: **joy, sadness, fear, anger, surprise, anticipation, trust, disgust**.
+
+---
+
 ### Penjelasan:
 
 * **`y_true`**: Label asli emosi dari data uji (feedback pelanggan).
