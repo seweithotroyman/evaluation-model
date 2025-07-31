@@ -11,7 +11,6 @@ Misalnya, feedback pelanggan yang ingin dianalisis adalah seperti berikut:
 
 Lo bisa menggunakan confusion matrix yang memiliki 8 kelas, dengan baris dan kolom yang mewakili **8 emosi**: **joy, sadness, fear, anger, surprise, anticipation, trust, disgust**.
 
----
 
 ### Penjelasan:
 
